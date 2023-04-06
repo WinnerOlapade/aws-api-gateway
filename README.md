@@ -1,4 +1,4 @@
-# aws-api-gateway
+# AWS and Infrastructure as Code(Terraform)
 ### **Building Serverless REST API using AWS Lambda to POST and GET items in a DynamoDB Table with Infrastructure as Code (Terraform)**
 Creating REST API in AWS using AWS API Gateway, Lambda and DynamoDB. This task (Infrastructure) was created using Terraform to allow easy deployment and management of resources in Cloud environment.
 
