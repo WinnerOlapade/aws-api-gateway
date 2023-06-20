@@ -7,7 +7,7 @@ variable "account_id" {
   type = string
 }
 
-# variable "stage_count"{
-#   type = number
-#   default = 3
-# }
+variable "stage_count"{
+  type = number
+  default = 3
+}
